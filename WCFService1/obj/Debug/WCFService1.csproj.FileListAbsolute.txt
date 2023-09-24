@@ -1,0 +1,7 @@
+D:\Windows form\WCFService1\WCFService1\obj\Debug\WCFService1.csproj.AssemblyReference.cache
+D:\Windows form\WCFService1\WCFService1\obj\Debug\WCFService1.csproj.CoreCompileInputs.cache
+D:\Windows form\WCFService1\WCFService1\bin\WCFService1.dll.config
+D:\Windows form\WCFService1\WCFService1\bin\WCFService1.dll
+D:\Windows form\WCFService1\WCFService1\bin\WCFService1.pdb
+D:\Windows form\WCFService1\WCFService1\obj\Debug\WCFService1.dll
+D:\Windows form\WCFService1\WCFService1\obj\Debug\WCFService1.pdb
